@@ -48,23 +48,18 @@ function updateFlowField() {
 }
 
 function drawField() {
+  var v = createVector(0, 0);
   for (var i = 0; i < width / detail; i++) {
     for (var j = 0; j < height / detail; j++) {
-      let x1 = i * detail;
-      let y1 = j * detail;
+      let x1 = i * detail + detail / 2;
+      let y1 = j * detail + detail / 2;
 
-      let x2 = i * detail + flow[i][j].x;
-      let y2 = j * detail + flow[i][j].y;
+      let x2 = x1 + flow[i][j].x / 1.5;
+      let y2 = y1 + flow[i][j].y / 1.5;
 
-      let angle = atan2(y2 - y1, x2 - x2);
-
-      stroke(
-        map(angle, -PI, PI, 0, 255),
-        0,
-        map(angle, -PI, PI, 255, 0)
-      );
-
-      line(x1, y1, x2, y2);
+      let angle = atan(y1 - y2, x1 - x2);
+      v.rotate(angle);
+      line(x1 + v.x, y1 +  v.y, x2 + v.x, y2 +  v.y);
     }
   }
 }
