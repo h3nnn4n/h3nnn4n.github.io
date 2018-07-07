@@ -26,10 +26,20 @@ function updateFlowField() {
   var xOff = 0.0;
   var yOff = 0.0;
   for (var i = 0; i < width / detail + 1; i++) {
+    if (i < (width / detail + 1) / 2) {
+      xOff += inc;
+    } else {
+      xOff -= inc;
+    }
+
     yOff = 0.0;
-    xOff += inc;
     for (var j = 0; j < height / detail + 1; j++) {
-      yOff += inc;
+      if (j < (height / detail + 1) / 2) {
+        yOff += inc;
+      } else {
+        yOff -= inc;
+      }
+
       let diff = map(noise(xOff, yOff, zOff), 0, 1, 0, TWO_PI * 2.0)
                - flow[i][j].heading();
       flow[i][j].rotate(diff);
