@@ -32,8 +32,9 @@ function Particle() {
   }
 
   this.applyForce = function(force) {
-    let scaledForce = force.copy();
-    this.acceleration.add(scaledForce.setMag(1.0));
+    //let scaledForce = force.copy();
+    //this.acceleration.add(scaledForce.setMag(1.0));
+    this.acceleration.add(force);
   }
 
   this.follow = function(forces) {
