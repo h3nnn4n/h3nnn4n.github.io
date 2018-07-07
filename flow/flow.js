@@ -7,7 +7,7 @@ var flow = [];
 
 var particles = [];
 
-function updateFlowField() {
+function createFlowField() {
   var xOff = 0.0;
   for (var i = 0; i < width / detail + 1; i++) {
     flow[i] = [];
@@ -22,10 +22,38 @@ function updateFlowField() {
   }
 }
 
+function updateFlowField() {
+  var xOff = 0.0;
+  for (var i = 0; i < width / detail + 1; i++) {
+    var yOff = 0.0;
+    xOff += inc;
+    for (var j = 0; j < height / detail + 1; j++) {
+      yOff += inc;
+      var r = map(noise(xOff, yOff, zOff), 0, 1, 0, TWO_PI * 2.0);
+      var vec = p5.Vector.fromAngle(r);
+      flow[i][j] = vec.setMag(detail);
+    }
+  }
+}
+
 function drawField() {
   for (var i = 0; i < width / detail; i++) {
     for (var j = 0; j < height / detail; j++) {
-      line(i * detail, j * detail, i * detail + flow[i][j].x, j * detail + flow[i][j].y);
+      let x1 = i * detail;
+      let y1 = j * detail;
+
+      let x2 = i * detail + flow[i][j].x;
+      let y2 = j * detail + flow[i][j].y;
+
+      let angle = atan2(y2 - y1, x2 - x2);
+
+      stroke(
+        map(angle, -PI, PI, 0, 255),
+        0,
+        map(angle, -PI, PI, 255, 0)
+      );
+
+      line(x1, y1, x2, y2);
     }
   }
 }
@@ -50,7 +78,7 @@ function setup() {
 
   setControls();
 
-  updateFlowField();
+  createFlowField();
   spawn();
 }
 
