@@ -80,13 +80,13 @@ function spawn() {
     }
   }
 
-  if (!repulsor) {
-    repulsor = new Particle();
-  }
+  //if (!repulsor) {
+    //repulsor = new Particle();
+  //}
 
-  if (!sink) {
-    sink = new Particle();
-  }
+  //if (!sink) {
+    //sink = new Particle();
+  //}
 }
 
 function setup() {
