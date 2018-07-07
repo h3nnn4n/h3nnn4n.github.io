@@ -15,6 +15,20 @@ function updateNoiseValue() {
   inc = noiseValue;
 }
 
+function updateFlowChange() {
+  var flow_change = select('#flowchange');
+  flow_change_value = flow_change.value();
+  label = select('#flowchange_label');
+  label.html('Flow Change: ' + flow_change_value);
+
+  zInc = flow_change_value;
+}
+
+function updateWrapAround() {
+  var wrap_noise = select('#wrapnoise');
+  wrapAround = !wrap_noise.checked();
+}
+
 function setControls() {
   var slider_n_particles = select('#nparticles');
   slider_n_particles.input(updatenParticles);
@@ -23,4 +37,10 @@ function setControls() {
   var noise_slider = select('#noiselevel');
   noise_slider.input(updateNoiseValue);
   updateNoiseValue();
+
+  var wrap_noise = select('#wrapnoise');
+  wrap_noise.input(updateWrapAround);
+
+  var flow_change = select('#flowchange');
+  flow_change.input(updateFlowChange);
 }

@@ -1,7 +1,10 @@
 var inc = 0.5;
 var detail = 50;
 var zOff = 0.0;
+var zInc = null;
 var nParticles = 500;
+
+var wrapAround = true;
 
 var flow = [];
 
@@ -29,7 +32,7 @@ function updateFlowField() {
   var xOff = 0.0;
   var yOff = 0.0;
   for (var i = 0; i < width / detail + 1; i++) {
-    if (i < (width / detail + 1) / 2) {
+    if (i < (width / detail + 1) / 2 || wrapAround) {
       xOff += inc;
     } else {
       xOff -= inc;
@@ -37,7 +40,7 @@ function updateFlowField() {
 
     yOff = 0.0;
     for (var j = 0; j < height / detail + 1; j++) {
-      if (j < (height / detail + 1) / 2) {
+      if (j < (height / detail + 1) / 2 || wrapAround) {
         yOff += inc;
       } else {
         yOff -= inc;
@@ -101,7 +104,7 @@ function setup() {
 
 function draw() {
   background(255, 25);
-  zOff += 0.001;
+  zOff += zInc;
 
   updateFlowField();
   //drawField();
