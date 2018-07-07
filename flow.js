@@ -31,7 +31,9 @@ function drawField() {
 }
 
 function setup() {
-  createCanvas(800, 600);
+  var cnv = createCanvas(800, 600);
+
+  cnv.parent('flow-holder');
 
   updateFlowField();
 
