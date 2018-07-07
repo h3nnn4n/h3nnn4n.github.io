@@ -1,5 +1,5 @@
 function Particle() {
-  this.maxAcceleration = random(0.25) + 0.75;
+  this.maxAcceleration = random(0.5) + 0.75;
   this.maxVelocity = 4.0 + random(2.0);
 
   this.position = createVector(floor(random(width)), floor(random(height)));
@@ -15,16 +15,16 @@ function Particle() {
 
     this.velocity.add(this.acceleration);
 
-    if (random() < 0.01) {
-      this.velocity.add(createVector(random(-PI, PI), random(-PI, PI)));
-    }
+    //if (random() < 0.01) {
+      //this.velocity.add(createVector(random(-PI, PI), random(-PI, PI)));
+    //}
 
     this.position.add(this.velocity);
   }
 
   this.show = function() {
     stroke(
-      map(this.maxAcceleration, 0.75, 1.0, 50, 255),
+      map(this.maxAcceleration, 0.75, 1.25, 50, 255),
       127,
       map(this.maxVelocity, 4.0, 6.0, 50, 255)
     );
