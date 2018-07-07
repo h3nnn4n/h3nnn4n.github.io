@@ -7,6 +7,9 @@ var flow = [];
 
 var particles = [];
 
+var repulsor = null;
+var sink = null;
+
 function createFlowField() {
   var xOff = 0.0;
   for (var i = 0; i < width / detail + 1; i++) {
@@ -76,6 +79,14 @@ function spawn() {
       particles.pop();
     }
   }
+
+  if (!repulsor) {
+    repulsor = new Particle();
+  }
+
+  if (!sink) {
+    sink = new Particle();
+  }
 }
 
 function setup() {
@@ -95,10 +106,65 @@ function draw() {
   updateFlowField();
   //drawField();
 
+  if (repulsor) {
+    repulsor.follow(flow);
+    repulsor.update();
+    repulsor.wrap();
+    repulsor.show();
+
+    fill(color('cyan'));
+    stroke(color('cyan'));
+
+    //ellipse(repulsor.position.x, repulsor.position.y, 15, 15);
+  }
+
+  if (sink) {
+    sink.follow(flow);
+    sink.update();
+    sink.wrap();
+    sink.show();
+
+    fill(color('magenta'));
+    stroke(color('magenta'));
+
+    //ellipse(sink.position.x, sink.position.y, 15, 15);
+  }
+
   for (var i = 0, len = particles.length; i < len; i++) {
     var p = particles[i];
     p.follow(flow);
+
+    if (repulsor) {
+      var angle = atan2(repulsor.position.y - p.position.y, repulsor.position.x - p.position.x);
+      var v = p5.Vector.fromAngle(angle);
+      var d = dist(repulsor.position.x, repulsor.position.y, p.position.x, p.position.y);
+      var strenght = 50 / d;
+      v.setMag(-strenght * detail);
+      p.applyForce(v);
+    }
+
+    if (sink) {
+      var angle = atan2(sink.position.y - p.position.y, sink.position.x - p.position.x);
+      var v = p5.Vector.fromAngle(angle);
+      var d = dist(sink.position.x, sink.position.y, p.position.x, p.position.y);
+      var strenght = 50 / d;
+      v.setMag(strenght * detail);
+      p.applyForce(v);
+
+      if (d < 15 && false) {
+        p.position.x = repulsor.position.x;
+        p.position.y = repulsor.position.y;
+
+        p.velocity.x = 0;
+        p.velocity.y = 0;
+
+        p.acceleration.x = 0;
+        p.acceleration.y = 0;
+      }
+    }
+
     p.update();
+
     p.wrap();
     p.show();
   }
