@@ -40,7 +40,9 @@ function setControls() {
 
   var wrap_noise = select('#wrapnoise');
   wrap_noise.input(updateWrapAround);
+  updateWrapAround();
 
   var flow_change = select('#flowchange');
   flow_change.input(updateFlowChange);
+  updateFlowChange();
 }
