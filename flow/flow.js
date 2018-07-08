@@ -5,6 +5,7 @@ var zInc = null;
 var nParticles = 500;
 
 var wrapAround = true;
+var showField = true;
 
 var flow = [];
 
@@ -107,7 +108,10 @@ function draw() {
   zOff += zInc;
 
   updateFlowField();
-  //drawField();
+
+  if (showField) {
+    drawField();
+  }
 
   if (repulsor) {
     repulsor.follow(flow);

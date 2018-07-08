@@ -24,6 +24,11 @@ function updateFlowChange() {
   zInc = flow_change_value;
 }
 
+function updateShowField() {
+  var show_field = select('#showfield');
+  showField = show_field.checked();
+}
+
 function updateWrapAround() {
   var wrap_noise = select('#wrapnoise');
   wrapAround = !wrap_noise.checked();
@@ -37,6 +42,10 @@ function setControls() {
   var noise_slider = select('#noiselevel');
   noise_slider.input(updateNoiseValue);
   updateNoiseValue();
+
+  var show_field = select('#showfield');
+  show_field.input(updateShowField);
+  updateShowField();
 
   var wrap_noise = select('#wrapnoise');
   wrap_noise.input(updateWrapAround);
