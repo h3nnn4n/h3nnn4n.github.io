@@ -1,5 +1,5 @@
 var inc = 0.5;
-var detail = 50;
+var detail = 75;
 var zOff = 0.0;
 var zInc = null;
 var nParticles = 500;
@@ -54,8 +54,24 @@ function updateFlowField() {
   }
 }
 
+function drawArrow(base, vec, myColor) {
+  push();
+  stroke(myColor);
+  strokeWeight(3);
+  fill(myColor);
+  translate(base.x, base.y);
+  line(0, 0, vec.x, vec.y);
+  rotate(vec.heading());
+  let arrowSize = detail / 6;
+  translate(vec.mag() - arrowSize, 0);
+  triangle(0, arrowSize / 2, 0, -arrowSize / 2, arrowSize, 0);
+  pop();
+}
+
 function drawField() {
-  var v = createVector(0, 0);
+  var v1 = createVector(0, 0);
+  var v2 = createVector(0, 0);
+
   for (var i = 0; i < width / detail; i++) {
     for (var j = 0; j < height / detail; j++) {
       let x1 = i * detail + detail / 2;
@@ -64,9 +80,13 @@ function drawField() {
       let x2 = x1 + flow[i][j].x / 1.5;
       let y2 = y1 + flow[i][j].y / 1.5;
 
-      let angle = atan(y1 - y2, x1 - x2);
-      v.rotate(angle);
-      line(x1 + v.x, y1 +  v.y, x2 + v.x, y2 +  v.y);
+      v1.x = x1;
+      v1.y = y1;
+
+      v2.x = x2 - x1;
+      v2.y = y2 - y1;
+
+      drawArrow(v1, v2, 'black');
     }
   }
 }
