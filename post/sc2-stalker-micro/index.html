@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+         
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title></title>
+        
+        <style>
+
+    html body {
+        font-family: 'Raleway', sans-serif;
+        background-color: white;
+    }
+
+    :root {
+        --accent: #1695e9;
+        --border-width:  5px ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="https://h3nnn4n.github.io/css/main.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/monokai.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+ 
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/c.min.js"></script> 
+
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+ <meta name="generator" content="Hugo 0.47" />
+        
+
+        
+        
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66138442-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments)};
+          gtag('js', new Date());
+
+          gtag('config', 'UA-66138442-1');
+        </script>
+        
+    </head>
+
+    
+    
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    
+
+    <body>
+         
+        <nav class="navbar navbar-default navbar-fixed-top">
+
+            <div class="container">
+
+                <div class="navbar-header">
+
+                    <a class="navbar-brand visible-xs" href="#"></a>
+
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                </div>
+
+                <div class="collapse navbar-collapse">
+
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="/">Home</a></li>
+                            
+                                <li><a href="/post/">Posts</a></li>
+                            
+                                <li><a href="/project/">Projects</a></li>
+                            
+                                <li><a href="/about/">About</a></li>
+                            
+                        </ul>
+                    
+
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="mailto:renan.samuel.da.silva@gmail.com"><i class="fa fa-envelope-o"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://github.com/h3nnn4n/"><i class="fa fa-github"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/renan-s-silva-76b0a6133/"><i class="fa fa-linkedin"></i></a></li>
+                            
+                        </ul>
+                    
+
+                </div>
+
+            </div>
+
+        </nav>
+
+
+<main>
+
+    <div class="item">
+
+    
+    
+    
+
+    
+    
+
+    <h4><a href="/post/sc2-stalker-micro/"></a></h4>
+    <h5>January 1, 0001</h5>
+    
+
+</div>
+
+
+    <br> <div class="text-justify">
+
+<p>&ndash;
+title: &ldquo;Starcraft 2 Stalker Micro&rdquo;
+date: 2018-08-19
+tags: [&ldquo;starcraft 2&rdquo;, &ldquo;artificial intelligence&rdquo;, &ldquo;micro&rdquo;]</p>
+
+<h2 id="draft-false">draft: false</h2>
+
+<p>Starcraft 2 is currently the most competitive 1 vs 1 game, and from a
+Artificial Intelligence point of view it is a good (and hard) problem to
+tackle. It is very complex, having very delayed rewards, high dimensionality,
+volatility (baneling hit = rip), partial information and other things. Recently
+Blizzard shared an <a href="https://github.com/Blizzard/s2client-proto">interface</a> that
+makes possible for agents to play the game.
+<a href="https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/">DeepMind</a>
+is probably the leading research force on Starcraft 2 right now.</p>
+
+<p><a href="https://sc2ai.net/">Sc2ai</a> is a community driven ladder board for bots. It
+supports several API&rsquo;s, including DeepMinds&rsquo;s
+<a href="https://github.com/deepmind/pysc2">pysc2</a> and Dentosal&rsquo;s
+<a href="https://github.com/Dentosal/python-sc2">python-sc2</a>.The ladder features more
+than 20 bots and has a very active community.</p>
+
+<p>Two of the bots on Sc2ai are mine: <a href="https://github.com/h3nnn4n/h3nnn4n-sc2-ai/tree/master/SpatialLlama/SpatialLlama">Spatial
+Llama</a>
+and <a href="https://github.com/h3nnn4n/h3nnn4n-sc2-ai/tree/master/TapiocaBot/TapiocaBot">Tapioca Bot</a>.
+The former is a proof of concept, where I wanted to learn the basic of
+Dentosal&rsquo;s API and get a grip of doing a scripted bot for Starcraft 2.The
+latter is my under development bot, where I am focusing the most. It is
+<del>somewhat</del> modular (I am still working on that).Several modules are
+available: Research Controllers, Building Controllers, Build Order Controllers,
+an Army Controller and more.The use of modules allows for the bot to be more
+flexible, where one main module (the coordinator) can change the parameters of
+the other modules to change the bot behavior.</p>
+
+<p>Recently I developed a Three Gate Blink Stalker All In, based of
+<a href="https://lotv.spawningtool.com/build/62763/">herO&rsquo;s</a>. The build order is very
+simple and it relies heavily on micro. Previous versions of Tapioca Bot were
+macro focused (and they sucked). This current iteration applies pressure as soon
+as possible and relies on unit control to keep the pressure going.</p>
+
+<p>The first feature of the
+[Stalker](<a href="https://liquipedia.net/starcraft2/Stalker_(Legacy_of_the_Void">https://liquipedia.net/starcraft2/Stalker_(Legacy_of_the_Void</a>)
+control is unit grouping, where a small squad is formed and they start the
+attack together.This helps to prevent one single unit from getting overwhelmed
+by zerglings for example. The group is not permanent, it stays usually until a
+fight starts. One of the things on my TODO list is to make the groups more
+permanent and make them work together with focus firing for example. The
+following video shows this (the grouping) in action.</p>
+
+<p><img src="/gifs/wait_for_allies.gif" alt="Wait for unit" /></p>
+
+<p>The unit control while in combat is based on a simple set of conditions. The
+unit tries to stay far away as possible from the enemy units while staying in
+shooting range. If the stalker is faster than the enemy unit, it will stay in a
+safe distance from the enemy while being able to attack it.In the case where
+the stalker is not faster, but can out range the enemy unit, it will walk back
+without stop while allied units shoot the enemy unit. Then blink is available,
+the unit will be able to blink away from the fight after losing its shields,
+allows for the damage to be distributed among all units and keeping the number
+of allied units high.</p>
+
+<!--![Fighting](/gifs/kite.gif)-->
+
+<p>The position where the unit will walk back if needed, is directly behind it,
+when facing the closes enemy unit.While this is very simple and has some
+drawbacks, such as getting stuck on allied units, it has one big advantage: The
+units will tend to make an arc around the enemy units. If you are in a convex
+shape attacking into a concave one, the defenders will have a big advantage,
+because more units can shoot at the same time. The attack surface is maximized.
+This can be seem in the following videos.</p>
+
+<p><img src="/gifs/arc1.gif" alt="Arc1" /></p>
+
+<p>As it can be seem, the closer that an enemy unit tries to get to the stalkers,
+the higher surface of attack it will have. Furthermore, since the units tend to
+form an arc (or even a circle), they become less susceptible to Area of Effect
+spells and attacks.The shape also makes hard for one unit to be focused down,
+thus increasing the overall survivability of the unit and the army.</p>
+
+<p><img src="/gifs/arc2.gif" alt="Arc2" /></p>
+
+<p>The Three Gate Blink All In bot, before having micro added, had a very small
+win rate versus the default game AI on the Elite difficulty. After adding the
+micro functionality to the stalkers, the win rate went from less than 10% to
+about 60% over 250 games. Most of the wins are versus zerg opponents, since
+their early ranges units (roaches) are slow and have a shorter range than
+stalkers (4 versus 6), making them an easy target. They also take bonus damage
+from stalkers, due to their armored tag. Zerglings can be fast than an stalker
+with upgrades, but they are very fragile and will not do too much damage.
+Versus Protoss, the win rate gets lowers, since micro can not do too much in a
+stalker versus stalker battle. However, they do help versus adepts, zealots and
+sentries.Finally, versus Terran the win rate is the smallest one. Marine and
+marauders with Stimpack can gun down stalkers very fast. Also, siege tanks will
+outrange the stalkers, and when siege, will quickly destroy the stalkers.</p>
+</div>
+
+    
+    
+
+    
+
+    
+
+</main>
+
+        <footer>
+
+            <p class="copyright text-muted">&copy; All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a></p>
+
+        </footer>
+       
+    </body>
+
+</html>
+

@@ -20,5 +20,15 @@
       <description>Hey there. Recentlty I started working at JobScore while I was working at my masters degree on Applied Computing. This marked a new stage of my life. One that I am not familiar with, since I just graduated and never worked before. One of my main fears when I started working was stop evolving as a person and as an employee. With that in mind, I took a few commitments with the goal of creating healthy and productive habbits for my new life:</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://h3nnn4n.github.io/post/sc2-stalker-micro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/sc2-stalker-micro/</guid>
+      <description>&amp;ndash; title: &amp;ldquo;Starcraft 2 Stalker Micro&amp;rdquo; date: 2018-08-19 tags: [&amp;ldquo;starcraft 2&amp;rdquo;, &amp;ldquo;artificial intelligence&amp;rdquo;, &amp;ldquo;micro&amp;rdquo;]
+draft: false Starcraft 2 is currently the most competitive 1 vs 1 game, and from a Artificial Intelligence point of view it is a good (and hard) problem to tackle. It is very complex, having very delayed rewards, high dimensionality, volatility (baneling hit = rip), partial information and other things. Recently Blizzard shared an interface that makes possible for agents to play the game.</description>
+    </item>
+    
   </channel>
 </rss>
