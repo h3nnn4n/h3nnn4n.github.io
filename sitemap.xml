@@ -3,17 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://h3nnn4n.github.io/about/</loc>
+    <lastmod>2018-08-19T10:50:17-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/post/hello-world/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/tags/artificial-inteligence/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/tags/c/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://h3nnn4n.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://h3nnn4n.github.io/tags/emulator/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/project/garapa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/tags/personal/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/post/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://h3nnn4n.github.io/tags/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/tags/tetris/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://h3nnn4n.github.io/</loc>
+    <lastmod>2018-08-19T10:50:17-03:00</lastmod>
     <priority>0</priority>
   </url>
   
