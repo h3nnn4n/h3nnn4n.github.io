@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://h3nnn4n.github.io/project/gabate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/project/garapa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/project/gameboy-docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/project/tetris-re/</loc>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/project/sc2ai/</loc>
+  </url>
+  
+  <url>
     <loc>https://h3nnn4n.github.io/about/</loc>
     <lastmod>2018-08-19T10:50:17-03:00</lastmod>
   </url>
@@ -28,12 +48,23 @@
   </url>
   
   <url>
+    <loc>https://h3nnn4n.github.io/tags/docs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/tags/emulation/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://h3nnn4n.github.io/tags/emulator/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/project/garapa/</loc>
+    <loc>https://h3nnn4n.github.io/tags/game-boy/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -50,6 +81,21 @@
   
   <url>
     <loc>https://h3nnn4n.github.io/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/tags/python/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/tags/reverse-engineering/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/tags/starcraft-2/</loc>
     <priority>0</priority>
   </url>
   

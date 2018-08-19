@@ -12,6 +12,51 @@
     
     
     <item>
+      <title>Gabate</title>
+      <link>https://h3nnn4n.github.io/project/gabate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/project/gabate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garapa</title>
+      <link>https://h3nnn4n.github.io/project/garapa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/project/garapa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gameboy Docs</title>
+      <link>https://h3nnn4n.github.io/project/gameboy-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/project/gameboy-docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Engineering the Game Boy Tetris</title>
+      <link>https://h3nnn4n.github.io/project/tetris-re/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/project/tetris-re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starcraft 2 AI</title>
+      <link>https://h3nnn4n.github.io/project/sc2ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/project/sc2ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://h3nnn4n.github.io/about/</link>
       <pubDate>Sun, 19 Aug 2018 10:50:17 -0300</pubDate>
@@ -28,15 +73,6 @@ I am a man of many hobbies.</description>
       
       <guid>https://h3nnn4n.github.io/post/hello-world/</guid>
       <description>Hey there. Recentlty I started working at JobScore while I was working at my masters degree on Applied Computing. This marked a new stage of my life. One that I am not familiar with, since I just graduated and never worked before. One of my main fears when I started working was stop evolving as a person and as an employee. With that in mind, I took a few commitments with the goal of creating healthy and productive habbits for my new life:</description>
-    </item>
-    
-    <item>
-      <title>Garapa</title>
-      <link>https://h3nnn4n.github.io/project/garapa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://h3nnn4n.github.io/project/garapa/</guid>
-      <description></description>
     </item>
     
   </channel>
