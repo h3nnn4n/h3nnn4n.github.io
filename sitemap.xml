@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://h3nnn4n.github.io/post/flow/</loc>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://h3nnn4n.github.io/about/</loc>
     <lastmod>2018-08-19T10:50:17-03:00</lastmod>
   </url>
@@ -54,6 +59,12 @@
   </url>
   
   <url>
+    <loc>https://h3nnn4n.github.io/tags/creative/</loc>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://h3nnn4n.github.io/tags/docs/</loc>
     <priority>0</priority>
   </url>
@@ -74,6 +85,12 @@
   </url>
   
   <url>
+    <loc>https://h3nnn4n.github.io/tags/javascript/</loc>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://h3nnn4n.github.io/tags/micro/</loc>
     <lastmod>2018-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -86,8 +103,14 @@
   </url>
   
   <url>
+    <loc>https://h3nnn4n.github.io/tags/physics/</loc>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://h3nnn4n.github.io/post/</loc>
-    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,8 +147,14 @@
   </url>
   
   <url>
+    <loc>https://h3nnn4n.github.io/tags/visual/</loc>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://h3nnn4n.github.io/</loc>
-    <lastmod>2018-08-19T10:50:17-03:00</lastmod>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
