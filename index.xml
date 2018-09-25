@@ -71,7 +71,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://h3nnn4n.github.io/post/flow/</guid>
-      <description> </description>
+      <description>One of the most popular coding exercises out there is a Flow Field. The main idea behind that is to generate a vector field randomly, which is very often based on Perlin Noise. Then a set of particles are placed on the vector field and they are free to move along it, where the vector field determines the force placed upon the particle. To make things more dynamic and alive it is possible to vary the vector field over time.</description>
     </item>
     
     <item>
