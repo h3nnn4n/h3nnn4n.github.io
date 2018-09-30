@@ -6,7 +6,7 @@
     <description>Recent content on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://h3nnn4n.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -54,6 +54,17 @@
       
       <guid>https://h3nnn4n.github.io/project/sc2ai/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Dancing Room Zero</title>
+      <link>https://h3nnn4n.github.io/post/dancing-room-zero/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/dancing-room-zero/</guid>
+      <description>WIP post, coming soon.
+Click to reassign partners.
+ </description>
     </item>
     
     <item>

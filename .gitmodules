@@ -7,3 +7,6 @@
 [submodule "h3xus"]
 	path = h3xus
 	url = https://github.com/h3nnn4n/h3xus
+[submodule "dancing-friends-zero"]
+	path = dancing-friends-zero
+	url = https://github.com/h3nnn4n/dancing-friends-zero
