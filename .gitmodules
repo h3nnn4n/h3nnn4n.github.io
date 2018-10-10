@@ -10,3 +10,6 @@
 [submodule "dancing-friends-zero"]
 	path = dancing-friends-zero
 	url = https://github.com/h3nnn4n/dancing-friends-zero
+[submodule "cracks"]
+	path = cracks
+	url = https://github.com/h3nnn4n/cracks
