@@ -17,7 +17,8 @@
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://h3nnn4n.github.io/post/cracks/</guid>
-      <description> </description>
+      <description>Recently after looking at the works of inconvergent I decided to try to implement some of the techniques that he uses. This one here was inspired mostly by fractures. While his algorithm for this is something that I want to explore in the future, the work here is somewhat different from what he did.
+ My implementation works in a much simpler way. It generates a line equation with random coefficients and it picks a random point in this line.</description>
     </item>
     
     <item>
