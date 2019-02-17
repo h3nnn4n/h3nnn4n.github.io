@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal on h3nnn4n</title>
-    <link>https://h3nnn4n.me/tags/personal/</link>
+    <link>https://h3nnn4n.github.io/tags/personal/</link>
     <description>Recent content in Personal on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://h3nnn4n.me/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://h3nnn4n.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>https://h3nnn4n.me/post/hello-world/</link>
+      <link>https://h3nnn4n.github.io/post/hello-world/</link>
       <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.me/post/hello-world/</guid>
+      <guid>https://h3nnn4n.github.io/post/hello-world/</guid>
       <description>Hey there. Recentlty I started working at JobScore while I was working at my masters degree on Applied Computing. This marked a new stage of my life. One that I am not familiar with, since I just graduated and never worked before. One of my main fears when I started working was stop evolving as a person and as an employee. With that in mind, I took a few commitments with the goal of creating healthy and productive habbits for my new life:</description>
     </item>
     
