@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emulation on h3nnn4n</title>
-    <link>https://h3nnn4n.github.io/tags/emulation/</link>
+    <link>https://h3nnn4n.me/tags/emulation/</link>
     <description>Recent content in Emulation on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://h3nnn4n.github.io/tags/emulation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://h3nnn4n.me/tags/emulation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gameboy Docs</title>
-      <link>https://h3nnn4n.github.io/project/gameboy-docs/</link>
+      <link>https://h3nnn4n.me/project/gameboy-docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/project/gameboy-docs/</guid>
+      <guid>https://h3nnn4n.me/project/gameboy-docs/</guid>
       <description></description>
     </item>
     
