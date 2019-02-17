@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art_galerries on h3nnn4n</title>
+    <link>http://localhost:1313/art_galerry/</link>
+    <description>Recent content in Art_galerries on h3nnn4n</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:1313/art_galerry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gabate</title>
+      <link>http://localhost:1313/art_galerry/gabate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/art_galerry/gabate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garapa</title>
+      <link>http://localhost:1313/art_galerry/garapa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/art_galerry/garapa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gameboy Docs</title>
+      <link>http://localhost:1313/art_galerry/gameboy-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/art_galerry/gameboy-docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Engineering the Game Boy Tetris</title>
+      <link>http://localhost:1313/art_galerry/tetris-re/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/art_galerry/tetris-re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starcraft 2 AI</title>
+      <link>http://localhost:1313/art_galerry/sc2ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/art_galerry/sc2ai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

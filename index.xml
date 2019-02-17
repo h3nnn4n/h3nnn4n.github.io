@@ -6,7 +6,7 @@
     <description>Recent content on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Feb 2019 10:50:17 -0300</lastBuildDate>
     
 	<atom:link href="https://h3nnn4n.me/index.xml" rel="self" type="application/rss+xml" />
     
@@ -54,6 +54,15 @@
       
       <guid>https://h3nnn4n.me/project/sc2ai/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Art Gallery</title>
+      <link>https://h3nnn4n.me/art/</link>
+      <pubDate>Sun, 17 Feb 2019 10:50:17 -0300</pubDate>
+      
+      <guid>https://h3nnn4n.me/art/</guid>
+      <description>Over the last 10 or so years (since before high school) I have gathered interest in creative coding and doing art with computers. Back then I didn&amp;rsquo;t even know what creative coding was. My first experiments were with Lissajous curves made in QuickBasic. Over the years I learned more about programming and started doing more complex things. Many of the works that I did are now lost because I didn&amp;rsquo;t care to share or properly store them.</description>
     </item>
     
     <item>
