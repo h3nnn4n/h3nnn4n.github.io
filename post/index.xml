@@ -17,7 +17,7 @@
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://h3nnn4n.github.io/post/smart-panda/</guid>
-      <description> </description>
+      <description>Smart Panda is a simple Tetris Playground intended for use with Artificial Intelligences. That is, the intended use of Smart Panda is as a Tetris engine to explore and apply some Artificial Intelligence concepts to Tetris. The core of Smart Panda is written in rust, compiled to wasm using wasm-pack and wasm-bindgen. What you see happening on the browser right now is controlled with JavaScript. That is, the heavy lifting is made in rust and javascript does some glue logic and calls the update events from Smart Panda.</description>
     </item>
     
     <item>
