@@ -6,7 +6,7 @@
     <description>Recent content on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://h3nnn4n.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -54,6 +54,15 @@
       
       <guid>https://h3nnn4n.github.io/project/sc2ai/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Material Complementar: Recentes avanços na Inteligência Artificial em Jogos</title>
+      <link>https://h3nnn4n.github.io/ai-talk/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/ai-talk/</guid>
+      <description> Slides  Slides  Video  Google DeepMind&amp;rsquo;s Deep Q-learning playing Atari Breakout Google DeepMind&amp;rsquo;s Deep Q-Learning &amp;amp; Superhuman Atari Gameplays  Artigos  Playing Atari with Deep Reinforcement Learning Human-level control through deep reinforcement learning Mastering the game of Go with deep neural networks and tree search Mastering the game of Go without human knowledge  Código  Implementação open source pela DeepMind: DQN 3.0  Livros  Artificial Intelligence: A Modern Approach  Outros  The story of AlphaGo so far AlphaGo Zero: Learning from scratch OpenAI Five OpenAI Five Benchmark: Results The International 2018: Results AlphaStar: Mastering the Real-Time Strategy Game StarCraft II A Neural Network Playground  </description>
     </item>
     
     <item>
