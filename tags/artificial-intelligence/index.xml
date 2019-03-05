@@ -6,7 +6,7 @@
     <description>Recent content in Artificial Intelligence on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://h3nnn4n.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,6 +36,15 @@
       
       <guid>https://h3nnn4n.github.io/project/sc2ai/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Panda - A Tetris Playground for AIs</title>
+      <link>https://h3nnn4n.github.io/post/smart-panda/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/smart-panda/</guid>
+      <description> </description>
     </item>
     
     <item>
