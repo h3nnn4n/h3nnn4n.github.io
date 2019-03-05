@@ -16,6 +16,3 @@
 [submodule "fracture"]
 	path = fracture
 	url = https://github.com/h3nnn4n/fracture.git
-[submodule "smart-panda"]
-	path = smart-panda
-	url = https://github.com/h3nnn4n/smart-panda
