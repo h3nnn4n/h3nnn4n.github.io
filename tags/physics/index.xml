@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Physics on h3nnn4n</title>
-    <link>https://h3nnn4n.github.io/tags/physics/</link>
+    <link>http://localhost:1313/tags/physics/</link>
     <description>Recent content in Physics on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://h3nnn4n.github.io/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/physics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dancing Room Zero</title>
-      <link>https://h3nnn4n.github.io/post/dancing-room-zero/</link>
+      <link>http://localhost:1313/post/dancing-room-zero/</link>
       <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/post/dancing-room-zero/</guid>
+      <guid>http://localhost:1313/post/dancing-room-zero/</guid>
       <description>After writing a bit about the original Dancing with Friends and Enemies and my reimplementation I decided to try to implement something more close to the original. The first version used matter.js which added a different behavior style to the particles while being somewhat similar to the original.
  I was satisfied with the results and glad to be able to keep its original behavior while adding my own touch to it.</description>
     </item>
     
     <item>
       <title>Dancing Room</title>
-      <link>https://h3nnn4n.github.io/post/dancing-room/</link>
+      <link>http://localhost:1313/post/dancing-room/</link>
       <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/post/dancing-room/</guid>
+      <guid>http://localhost:1313/post/dancing-room/</guid>
       <description>A few years ago I found a thread on the Wolfram forum about swarm intelligence and emergent behavior, two things that I enjoy a lot. The title of the thread was something like &amp;ldquo;Dancing With Friends and Enemies&amp;rdquo; and it does not exist anymore as far as I can tell. However, I was able to find a copy here. The idea is pretty simple and below you can see my reinterpretation of it.</description>
     </item>
     
     <item>
       <title>Flow field</title>
-      <link>https://h3nnn4n.github.io/post/flow/</link>
+      <link>http://localhost:1313/post/flow/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/post/flow/</guid>
+      <guid>http://localhost:1313/post/flow/</guid>
       <description>One of the most popular coding exercises out there is a Flow Field. The main idea behind that is to generate a vector field randomly, which is very often based on Perlin Noise. Then a set of particles are placed on the vector field and they are free to move along it, where the vector field determines the force placed upon the particle. To make things more dynamic and alive it is possible to vary the vector field over time.</description>
     </item>
     

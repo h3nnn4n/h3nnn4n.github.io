@@ -2,156 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on h3nnn4n</title>
-    <link>https://h3nnn4n.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://h3nnn4n.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artificial Intelligence</title>
-      <link>https://h3nnn4n.github.io/tags/artificial-intelligence/</link>
+      <link>http://localhost:1313/tags/artificial-intelligence/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/artificial-intelligence/</guid>
+      <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C</title>
-      <link>https://h3nnn4n.github.io/tags/c/</link>
+      <link>http://localhost:1313/tags/c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/c/</guid>
+      <guid>http://localhost:1313/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creative</title>
-      <link>https://h3nnn4n.github.io/tags/creative/</link>
+      <link>http://localhost:1313/tags/creative/</link>
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/creative/</guid>
+      <guid>http://localhost:1313/tags/creative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docs</title>
-      <link>https://h3nnn4n.github.io/tags/docs/</link>
+      <link>http://localhost:1313/tags/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/docs/</guid>
+      <guid>http://localhost:1313/tags/docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emulation</title>
-      <link>https://h3nnn4n.github.io/tags/emulation/</link>
+      <link>http://localhost:1313/tags/emulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/emulation/</guid>
+      <guid>http://localhost:1313/tags/emulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emulator</title>
-      <link>https://h3nnn4n.github.io/tags/emulator/</link>
+      <link>http://localhost:1313/tags/emulator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/emulator/</guid>
+      <guid>http://localhost:1313/tags/emulator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Game Boy</title>
-      <link>https://h3nnn4n.github.io/tags/game-boy/</link>
+      <link>http://localhost:1313/tags/game-boy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/game-boy/</guid>
+      <guid>http://localhost:1313/tags/game-boy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>https://h3nnn4n.github.io/tags/javascript/</link>
+      <link>http://localhost:1313/tags/javascript/</link>
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/javascript/</guid>
+      <guid>http://localhost:1313/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Micro</title>
-      <link>https://h3nnn4n.github.io/tags/micro/</link>
+      <link>http://localhost:1313/tags/micro/</link>
       <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/micro/</guid>
+      <guid>http://localhost:1313/tags/micro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>https://h3nnn4n.github.io/tags/personal/</link>
+      <link>http://localhost:1313/tags/personal/</link>
       <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/personal/</guid>
+      <guid>http://localhost:1313/tags/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physics</title>
-      <link>https://h3nnn4n.github.io/tags/physics/</link>
+      <link>http://localhost:1313/tags/physics/</link>
       <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/physics/</guid>
+      <guid>http://localhost:1313/tags/physics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://h3nnn4n.github.io/tags/python/</link>
+      <link>http://localhost:1313/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/python/</guid>
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reverse Engineering</title>
-      <link>https://h3nnn4n.github.io/tags/reverse-engineering/</link>
+      <link>http://localhost:1313/tags/reverse-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/reverse-engineering/</guid>
+      <guid>http://localhost:1313/tags/reverse-engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Starcraft 2</title>
-      <link>https://h3nnn4n.github.io/tags/starcraft-2/</link>
+      <link>http://localhost:1313/tags/starcraft-2/</link>
       <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/starcraft-2/</guid>
+      <guid>http://localhost:1313/tags/starcraft-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tetris</title>
-      <link>https://h3nnn4n.github.io/tags/tetris/</link>
+      <link>http://localhost:1313/tags/tetris/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/tetris/</guid>
+      <guid>http://localhost:1313/tags/tetris/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual</title>
-      <link>https://h3nnn4n.github.io/tags/visual/</link>
+      <link>http://localhost:1313/tags/visual/</link>
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/tags/visual/</guid>
+      <guid>http://localhost:1313/tags/visual/</guid>
       <description></description>
     </item>
     
