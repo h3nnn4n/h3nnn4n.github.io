@@ -1,175 +1,133 @@
 <!DOCTYPE html>
-<html lang="en-us">
-    <head>
-         
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Strange Attractor Explorer, a.k.a. Strange Explorer</title>
-        
-        <style>
+<html>
 
-    html body {
-        font-family: 'Raleway', sans-serif;
-        background-color: white;
-    }
+<head>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <title>Rust + TypeScript = S2</title>
+</head>
 
-    :root {
-        --accent: #1695e9;
-        --border-width:  5px ;
-    }
+<body>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+  <script src="./bootstrap.js"></script>
 
-</style>
+  <div class="container">
+    <div class="">
+      <div class=" input-group">
+        <div class="input-group-prepend">
+          <span class="input-group-text">a = </span>
+        </div>
 
+        <input class="form-control" type="number" name="a_value_start" id="a_value_start" value="-1.4" step="0.01">
 
-<link rel="stylesheet" href="https://h3nnn4n.github.io/css/main.css">
+        <div class="input-group-prepend">
+          <span class="input-group-text">b = </span>
+        </div>
 
+        <input class="form-control" type="number" name="b_value_start" id="b_value_start" value="1.8" step="0.01">
 
+        <div class="input-group-prepend">
+          <span class="input-group-text">c = </span>
+        </div>
 
+        <input class="form-control" type="number" name="c_value_start" id="c_value_start" value="1.1" step="0.01">
 
+        <div class="input-group-prepend">
+          <span class="input-group-text">d = </span>
+        </div>
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+        <input class="form-control" type="number" name="d_value_start" id="d_value_start" value="0.7" step="0.01">
 
+        <div class="input-group-prepend">
+          <span class="input-group-text">color = </span>
+        </div>
 
-
-
-
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
-<link rel="stylesheet" href="/css/mine.css">
- 
-
-
-
-
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <input class="form-control jscolor" type="text" name="color_value_start" id="color_value_start" value="#cb1a62">
+      </div>
 
 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+      <div class=" input-group">
+        <div class="input-group-prepend">
+          <span class="input-group-text">a = </span>
+        </div>
+
+        <input class="form-control" type="number" name="a_value_end" id="a_value_end" value="-1.35" step="0.01">
+
+        <div class="input-group-prepend">
+          <span class="input-group-text">b = </span>
+        </div>
+
+        <input class="form-control" type="number" name="b_value_end" id="b_value_end" value="1.6" step="0.01">
+
+        <div class="input-group-prepend">
+          <span class="input-group-text">c = </span>
+        </div>
+
+        <input class="form-control" type="number" name="c_value_end" id="c_value_end" value="1.0" step="0.01">
+
+        <div class="input-group-prepend">
+          <span class="input-group-text">d = </span>
+        </div>
+
+        <input class="form-control" type="number" name="d_value_end" id="d_value_end" value="0.6" step="0.01">
+
+        <div class="input-group-prepend">
+          <span class="input-group-text">color = </span>
+        </div>
+
+        <input class="form-control jscolor" type="text" name="color_value_end" id="color_value_end" value="#001a62">
+      </div>
 
 
-<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
- <meta name="generator" content="Hugo 0.47" />
-        
+      <div class=" input-group">
+        <div class="input-group-prepend">
+          <span class="input-group-text">gamma = </span>
+        </div>
 
-        
-        
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66138442-1"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments)};
-          gtag('js', new Date());
+        <input class="form-control" type="number" name="gamma_value" id="gamma_value" value="0.3" step="0.01">
 
-          gtag('config', 'UA-66138442-1');
-        </script>
-        
-    </head>
+        <div class="input-group-prepend">
+          <span class="input-group-text">frames = </span>
+        </div>
 
-    
-    
-    <script type="text/javascript" async
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    </script>
-    
+        <input class="form-control" type="number" name="frames_value" id="frames_value" value="20" step="10">
 
-    <body>
-         
-        <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="input-group-prepend">
+          <span class="input-group-text">iters = </span>
+        </div>
 
-            <div class="container">
+        <input class="form-control" type="number" name="iters_value" id="iters_value" value="25000" step="25000">
 
-                <div class="navbar-header">
+        <div class="input-group-append">
+          <button class="btn btn-primary input-group-text" type="button" id="render">Render</button>
+        </div>
+      </div>
+    </div>
 
-                    <a class="navbar-brand visible-xs" href="#">Strange Attractor Explorer, a.k.a. Strange Explorer</a>
+    <div class="progress">
+      <div class="progress-bar bg-info" role="progressbar" style="width: 0%" id="progress_bar"></div>
+    </div>
+  </div>
 
-                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
+  <div class="container">
+    <div class="row text-center">
+      <div class="col">
+        <canvas id="canvas"></canvas>
+      </div>
+    </div>
+  </div>
 
-                </div>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+  </script>
 
-                <div class="collapse navbar-collapse">
-
-                    
-                        <ul class="nav navbar-nav">
-                            
-                                <li><a href="/">Home</a></li>
-                            
-                                <li><a href="/post/">Posts</a></li>
-                            
-                                <li><a href="/project/">Projects</a></li>
-                            
-                                <li><a href="/art/">Art Gallery</a></li>
-                            
-                                <li><a href="/about/">About</a></li>
-                            
-                        </ul>
-                    
-
-                    
-                        <ul class="nav navbar-nav navbar-right">
-                            
-                                <li class="navbar-icon"><a href="https://www.instagram.com/h3nnn4n/"><i class="fa fa-instagram"></i></a></li>
-                            
-                                <li class="navbar-icon"><a href="https://github.com/h3nnn4n/"><i class="fa fa-github"></i></a></li>
-                            
-                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/renan-s-silva-76b0a6133/"><i class="fa fa-linkedin"></i></a></li>
-                            
-                                <li class="navbar-icon"><a href="mailto:renan.samuel.da.silva@gmail.com"><i class="fa fa-envelope-o"></i></a></li>
-                            
-                        </ul>
-                    
-
-                </div>
-
-            </div>
-
-        </nav>
-
-
-<main>
-
-    <div class="item">
-
-    
-    
-    
-
-    
-    
-
-    <h4><a href="/strange-explorer/">Strange Attractor Explorer, a.k.a. Strange Explorer</a></h4>
-    <h5>August 6, 2019</h5>
-    
-
-</div>
-
-
-    <br> <div class="text-justify"><p>Oi</p>
-</div>
-
-    
-    
-
-    
-
-    
-
-</main>
-
-        <footer>
-
-            <p class="copyright text-muted">&copy; All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a></p>
-
-        </footer>
-       
-    </body>
+  <div class="container">
+    <div class="row">
+      <div class="col text-center">
+        <a class="btn btn-primary" href="#" role="button" id='download'>Download</a>
+      </div>
+    </div>
+  </div>
+</body>
 
 </html>
-
