@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://h3nnn4n.github.io/strange-explorer/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://h3nnn4n.github.io/ai-talk/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
@@ -68,13 +73,13 @@
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/post/hello-world/</loc>
+    <loc>https://h3nnn4n.github.io/post/sc2-stalker-micro/</loc>
     <lastmod>2018-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/post/sc2-stalker-micro/</loc>
-    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    <loc>https://h3nnn4n.github.io/post/hello-world/</loc>
+    <lastmod>2018-08-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -133,7 +138,7 @@
   
   <url>
     <loc>https://h3nnn4n.github.io/tags/personal/</loc>
-    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -190,7 +195,7 @@
   
   <url>
     <loc>https://h3nnn4n.github.io/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

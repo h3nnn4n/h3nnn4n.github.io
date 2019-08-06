@@ -68,15 +68,6 @@
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>https://h3nnn4n.github.io/post/hello-world/</link>
-      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://h3nnn4n.github.io/post/hello-world/</guid>
-      <description>Hey there. Recentlty I started working at JobScore while I was working at my masters degree on Applied Computing. This marked a new stage of my life. One that I am not familiar with, since I just graduated and never worked before. One of my main fears when I started working was stop evolving as a person and as an employee. With that in mind, I took a few commitments with the goal of creating healthy and productive habbits for my new life:</description>
-    </item>
-    
-    <item>
       <title>Starcraft 2 Stalker Micro</title>
       <link>https://h3nnn4n.github.io/post/sc2-stalker-micro/</link>
       <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
@@ -84,6 +75,15 @@
       <guid>https://h3nnn4n.github.io/post/sc2-stalker-micro/</guid>
       <description>Starcraft 2 is currently the most competitive 1 vs 1 game, and from a Artificial Intelligence point of view it is a good (and hard) problem to tackle. It is very complex, having very delayed rewards, high dimensionality, volatility (baneling hit = rip), partial information and other things. Recently Blizzard shared an interface that makes possible for agents to play the game.
 DeepMind is probably the leading research force on Starcraft 2 right now on a professional level.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://h3nnn4n.github.io/post/hello-world/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/hello-world/</guid>
+      <description>Hey there. Recentlty I started working at JobScore while I was working at my masters degree on Applied Computing. This marked a new stage of my life. One that I am not familiar with, since I just graduated and never worked before. One of my main fears when I started working was stop evolving as a person and as an employee. With that in mind, I took a few commitments with the goal of creating healthy and productive habbits for my new life:</description>
     </item>
     
   </channel>
