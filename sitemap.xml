@@ -1,197 +1,176 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://h3nnn4n.github.io/project/gabate/</loc>
+    <loc>https://h3nnn4n.me/project/gabate/</loc>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/project/garapa/</loc>
+    <loc>https://h3nnn4n.me/project/garapa/</loc>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/project/gameboy-docs/</loc>
+    <loc>https://h3nnn4n.me/project/gameboy-docs/</loc>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/project/tetris-re/</loc>
+    <loc>https://h3nnn4n.me/project/tetris-re/</loc>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/project/sc2ai/</loc>
+    <loc>https://h3nnn4n.me/project/sc2ai/</loc>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/ai-talk/</loc>
+    <loc>https://h3nnn4n.me/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/post/smart-panda/</loc>
+    <loc>https://h3nnn4n.me/ai-talk/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.me/tags/artificial-intelligence/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/art/</loc>
+    <loc>https://h3nnn4n.me/post/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.me/post/smart-panda/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.me/tags/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.me/tags/tetris/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.me/art/</loc>
     <lastmod>2019-02-17T10:50:17-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/post/fracture/</loc>
+    <loc>https://h3nnn4n.me/tags/creative/</loc>
     <lastmod>2018-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/post/cracks/</loc>
+    <loc>https://h3nnn4n.me/post/fracture/</loc>
+    <lastmod>2018-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.me/tags/javascript/</loc>
+    <lastmod>2018-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.me/tags/visual/</loc>
+    <lastmod>2018-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.me/post/cracks/</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/post/dancing-room-zero/</loc>
+    <loc>https://h3nnn4n.me/post/dancing-room-zero/</loc>
     <lastmod>2018-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/post/dancing-room/</loc>
+    <loc>https://h3nnn4n.me/tags/physics/</loc>
+    <lastmod>2018-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.me/post/dancing-room/</loc>
     <lastmod>2018-09-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/post/flow/</loc>
+    <loc>https://h3nnn4n.me/post/flow/</loc>
     <lastmod>2018-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/about/</loc>
+    <loc>https://h3nnn4n.me/about/</loc>
     <lastmod>2018-08-19T10:50:17-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/post/sc2-stalker-micro/</loc>
+    <loc>https://h3nnn4n.me/tags/micro/</loc>
     <lastmod>2018-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/post/hello-world/</loc>
+    <loc>https://h3nnn4n.me/tags/starcraft-2/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.me/post/sc2-stalker-micro/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.me/post/hello-world/</loc>
     <lastmod>2018-08-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/tags/artificial-intelligence/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/tags/c/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/tags/creative/</loc>
-    <lastmod>2018-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/tags/docs/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/tags/emulation/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/tags/emulator/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/tags/game-boy/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/tags/javascript/</loc>
-    <lastmod>2018-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/tags/micro/</loc>
-    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/tags/personal/</loc>
+    <loc>https://h3nnn4n.me/tags/personal/</loc>
     <lastmod>2018-08-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/tags/physics/</loc>
-    <lastmod>2018-09-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://h3nnn4n.me/tags/c/</loc>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/post/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://h3nnn4n.me/categories/</loc>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/project/</loc>
-    <priority>0</priority>
+    <loc>https://h3nnn4n.me/tags/docs/</loc>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/tags/python/</loc>
-    <priority>0</priority>
+    <loc>https://h3nnn4n.me/tags/emulation/</loc>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/tags/reverse-engineering/</loc>
-    <priority>0</priority>
+    <loc>https://h3nnn4n.me/tags/emulator/</loc>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/tags/starcraft-2/</loc>
-    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://h3nnn4n.me/tags/game-boy/</loc>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/tags/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://h3nnn4n.me/project/</loc>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/tags/tetris/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://h3nnn4n.me/tags/python/</loc>
   </url>
   
   <url>
-    <loc>https://h3nnn4n.github.io/tags/visual/</loc>
-    <lastmod>2018-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://h3nnn4n.me/tags/reverse-engineering/</loc>
   </url>
   
 </urlset>

@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Starcraft 2 on h3nnn4n</title>
-    <link>https://h3nnn4n.github.io/tags/starcraft-2/</link>
-    <description>Recent content in Starcraft 2 on h3nnn4n</description>
+    <title>starcraft 2 on h3nnn4n</title>
+    <link>https://h3nnn4n.me/tags/starcraft-2/</link>
+    <description>Recent content in starcraft 2 on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://h3nnn4n.github.io/tags/starcraft-2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://h3nnn4n.me/tags/starcraft-2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Starcraft 2 AI</title>
-      <link>https://h3nnn4n.github.io/project/sc2ai/</link>
+      <link>https://h3nnn4n.me/project/sc2ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/project/sc2ai/</guid>
+      <guid>https://h3nnn4n.me/project/sc2ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Starcraft 2 Stalker Micro</title>
-      <link>https://h3nnn4n.github.io/post/sc2-stalker-micro/</link>
+      <link>https://h3nnn4n.me/post/sc2-stalker-micro/</link>
       <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.github.io/post/sc2-stalker-micro/</guid>
+      <guid>https://h3nnn4n.me/post/sc2-stalker-micro/</guid>
       <description>Starcraft 2 is currently the most competitive 1 vs 1 game, and from a Artificial Intelligence point of view it is a good (and hard) problem to tackle. It is very complex, having very delayed rewards, high dimensionality, volatility (baneling hit = rip), partial information and other things. Recently Blizzard shared an interface that makes possible for agents to play the game.
 DeepMind is probably the leading research force on Starcraft 2 right now on a professional level.</description>
     </item>

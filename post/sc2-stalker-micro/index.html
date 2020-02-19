@@ -21,7 +21,7 @@
 </style>
 
 
-<link rel="stylesheet" href="https://h3nnn4n.github.io/css/main.css">
+<link rel="stylesheet" href="https://h3nnn4n.me/css/main.css">
 
 
 
@@ -53,7 +53,7 @@
 
 
 <script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
- <meta name="generator" content="Hugo 0.47" />
+ <meta name="generator" content="Hugo 0.64.1" />
         
 
         
@@ -147,11 +147,11 @@
     <h4><a href="/post/sc2-stalker-micro/">Starcraft 2 Stalker Micro</a></h4>
     <h5>August 19, 2018</h5>
     
-    <a href="https://h3nnn4n.github.io/tags/starcraft-2"><kbd class="item-tag">starcraft 2</kbd></a>
+    <a href="https://h3nnn4n.me/tags/starcraft-2"><kbd class="item-tag">starcraft 2</kbd></a>
     
-    <a href="https://h3nnn4n.github.io/tags/artificial-intelligence"><kbd class="item-tag">artificial intelligence</kbd></a>
+    <a href="https://h3nnn4n.me/tags/artificial-intelligence"><kbd class="item-tag">artificial intelligence</kbd></a>
     
-    <a href="https://h3nnn4n.github.io/tags/micro"><kbd class="item-tag">micro</kbd></a>
+    <a href="https://h3nnn4n.me/tags/micro"><kbd class="item-tag">micro</kbd></a>
     
 
 </div>
@@ -163,7 +163,6 @@ tackle. It is very complex, having very delayed rewards, high dimensionality,
 volatility (baneling hit = rip), partial information and other things. Recently
 Blizzard shared an <a href="https://github.com/Blizzard/s2client-proto">interface</a> that
 makes possible for agents to play the game.</p>
-
 <p><a href="https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/">DeepMind</a>
 is probably the leading research force on Starcraft 2 right now on a professional level.
 On the community side, there is <a href="https://sc2ai.net/">Sc2ai</a>, which is a
@@ -171,7 +170,6 @@ community driven ladder board for bots. It supports several API&rsquo;s, includi
 DeepMinds&rsquo;s <a href="https://github.com/deepmind/pysc2">pysc2</a> and Dentosal&rsquo;s
 <a href="https://github.com/Dentosal/python-sc2">python-sc2</a>. The ladder features more
 than 20 bots and has a very active community.</p>
-
 <p>Two of the bots on Sc2ai are mine:
 <a href="https://github.com/h3nnn4n/h3nnn4n-sc2-ai/tree/master/SpatialLlama/SpatialLlama">Spatial Llama</a>
 and <a href="https://github.com/h3nnn4n/h3nnn4n-sc2-ai/tree/master/TapiocaBot/TapiocaBot">Tapioca Bot</a>.
@@ -183,13 +181,11 @@ available: Research Controllers, Building Controllers, Build Order Controllers,
 an Army Controller and more. The use of modules allows for the bot to be more
 flexible, where one main module (the coordinator) can change the parameters of
 the other modules to change the bot behavior.</p>
-
 <p>Recently I developed a Three Gate Blink Stalker All In, based of
 <a href="https://lotv.spawningtool.com/build/62763/">herO&rsquo;s</a>. The build order is very
 simple and it relies heavily on micro. Previous versions of Tapioca Bot were
 macro focused (and they sucked). This current iteration applies pressure as soon
 as possible and relies on unit control to keep the pressure going.</p>
-
 <p>The first feature of the
 <a href="https://liquipedia.net/starcraft2/Stalker_(Legacy_of_the_Void)">Stalker</a>
 control is unit grouping, where a small squad is formed and they start the
@@ -198,9 +194,7 @@ by zerglings for example. The group is not permanent, it stays usually until a
 fight starts. One of the things on my TODO list is to make the groups more
 permanent and make them work together with focus firing for example. The
 following video shows this (the grouping) in action.</p>
-
-<video autoplay loop muted src="/videos/wait_for_allies.webm"></video>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
 <p>The unit control while in combat is based on a simple set of conditions. The
 unit tries to stay far away as possible from the enemy units while staying in
 shooting range. If the stalker is faster than the enemy unit, it will stay in a
@@ -210,9 +204,7 @@ without stop while allied units shoot the enemy unit. When blink is available,
 the unit will be able to blink away from the fight after losing its shields,
 which allows for the damage to be distributed among all units and keeping the
 number of allied units high.</p>
-
-<video autoplay loop muted src="/videos/kite.webm"></video>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
 <p>The position where the unit will walk back, if needed, is directly behind it,
 when facing the closest enemy unit. While this is very simple and has some
 drawbacks, such as getting stuck on allied units, it has one big advantage: The
@@ -220,17 +212,13 @@ units will tend to make an arc around the enemy units. The group in a convex
 shape fighting the units in a concave one will have a big disadvantage,
 because more units can shoot the same unit at the same time. The attack surface
 is maximized. This can be seem happening in the following videos.</p>
-
-<video autoplay loop muted src="/videos/arc1.webm"></video>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
 <p>As it can be seem, the closer that an enemy unit tries to get to the stalkers,
 the higher surface of attack it will have. Furthermore, since the units tend to
 form an arc (or even a circle), they become less susceptible to Area of Effect
 spells and attacks. The shape also makes hard for one unit to be focused down,
 thus increasing the overall survivability of the unit and the army.</p>
-
-<video autoplay loop muted src="/videos/arc2.webm"></video>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
 <p>The Three Gate Blink All In bot, before having micro added, had a very small
 win rate versus the default game AI on the Elite difficulty. After adding the
 micro functionality to the stalkers, the win rate went from less than 10% to
@@ -265,9 +253,9 @@ outrange the stalkers, and when siege, will quickly destroy the stalkers.</p>
     <h4><a href="/post/smart-panda/">Smart Panda - A Tetris Playground for AIs</a></h4>
     <h5>March 4, 2019</h5>
     
-    <a href="https://h3nnn4n.github.io/tags/artificial-intelligence"><kbd class="item-tag">artificial intelligence</kbd></a>
+    <a href="https://h3nnn4n.me/tags/artificial-intelligence"><kbd class="item-tag">artificial intelligence</kbd></a>
     
-    <a href="https://h3nnn4n.github.io/tags/tetris"><kbd class="item-tag">tetris</kbd></a>
+    <a href="https://h3nnn4n.me/tags/tetris"><kbd class="item-tag">tetris</kbd></a>
     
 
 </div>
@@ -281,7 +269,7 @@ outrange the stalkers, and when siege, will quickly destroy the stalkers.</p>
 
         <footer>
 
-            <p class="copyright text-muted">&copy; All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a></p>
+            <p class="copyright text-muted">© All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a></p>
 
         </footer>
        
