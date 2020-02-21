@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tetris on h3nnn4n</title>
-    <link>https://h3nnn4n.me/tags/tetris/</link>
+    <link>https://h3nnn4n.github.io/tags/tetris/</link>
     <description>Recent content in tetris on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://h3nnn4n.me/tags/tetris/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://h3nnn4n.github.io/tags/tetris/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gabate</title>
-      <link>https://h3nnn4n.me/project/gabate/</link>
+      <link>https://h3nnn4n.github.io/project/gabate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.me/project/gabate/</guid>
+      <guid>https://h3nnn4n.github.io/project/gabate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Garapa</title>
-      <link>https://h3nnn4n.me/project/garapa/</link>
+      <link>https://h3nnn4n.github.io/project/garapa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.me/project/garapa/</guid>
+      <guid>https://h3nnn4n.github.io/project/garapa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reverse Engineering the Game Boy Tetris</title>
-      <link>https://h3nnn4n.me/project/tetris-re/</link>
+      <link>https://h3nnn4n.github.io/project/tetris-re/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.me/project/tetris-re/</guid>
+      <guid>https://h3nnn4n.github.io/project/tetris-re/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smart Panda - A Tetris Playground for AIs</title>
-      <link>https://h3nnn4n.me/post/smart-panda/</link>
+      <link>https://h3nnn4n.github.io/post/smart-panda/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://h3nnn4n.me/post/smart-panda/</guid>
+      <guid>https://h3nnn4n.github.io/post/smart-panda/</guid>
       <description>Smart Panda is a simple Tetris Playground intended for use with Artificial Intelligences. That is, the intended use of Smart Panda is as a Tetris engine to explore and apply some Artificial Intelligence concepts to Tetris. The core of Smart Panda is written in rust, compiled to wasm using wasm-pack and wasm-bindgen. What you see happening on the browser right now is controlled with JavaScript. That is, the heavy lifting is made in rust and javascript does some glue logic and calls the update events from Smart Panda.</description>
     </item>
     
