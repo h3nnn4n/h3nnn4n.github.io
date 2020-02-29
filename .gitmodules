@@ -19,3 +19,6 @@
 [submodule "smart-panda"]
 	path = smart-panda
 	url = https://github.com/h3nnn4n/smart-panda-dist.git
+[submodule "h3xus_reloaded"]
+	path = h3xus_reloaded
+	url = https://github.com/h3nnn4n/h3xus_reloaded
