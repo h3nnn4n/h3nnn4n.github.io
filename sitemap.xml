@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>https://h3nnn4n.github.io/project/strange-explorer/</loc>
+  </url>
+  
+  <url>
     <loc>https://h3nnn4n.github.io/project/gameboy-docs/</loc>
   </url>
   
@@ -159,7 +163,15 @@
   </url>
   
   <url>
+    <loc>https://h3nnn4n.github.io/tags/fractal/</loc>
+  </url>
+  
+  <url>
     <loc>https://h3nnn4n.github.io/tags/game-boy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/tags/procedural/</loc>
   </url>
   
   <url>
@@ -172,6 +184,14 @@
   
   <url>
     <loc>https://h3nnn4n.github.io/tags/reverse-engineering/</loc>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/tags/rust/</loc>
+  </url>
+  
+  <url>
+    <loc>https://h3nnn4n.github.io/tags/typescript/</loc>
   </url>
   
 </urlset>

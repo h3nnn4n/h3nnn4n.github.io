@@ -129,11 +129,29 @@
     </item>
     
     <item>
+      <title>fractal</title>
+      <link>https://h3nnn4n.github.io/tags/fractal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/tags/fractal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>game boy</title>
       <link>https://h3nnn4n.github.io/tags/game-boy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://h3nnn4n.github.io/tags/game-boy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>procedural</title>
+      <link>https://h3nnn4n.github.io/tags/procedural/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/tags/procedural/</guid>
       <description></description>
     </item>
     
@@ -152,6 +170,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://h3nnn4n.github.io/tags/reverse-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rust</title>
+      <link>https://h3nnn4n.github.io/tags/rust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/tags/rust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>typescript</title>
+      <link>https://h3nnn4n.github.io/tags/typescript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/tags/typescript/</guid>
       <description></description>
     </item>
     
