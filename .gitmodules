@@ -22,3 +22,6 @@
 [submodule "h3xus_reloaded"]
 	path = h3xus_reloaded
 	url = https://github.com/h3nnn4n/h3xus_reloaded
+[submodule "shootaroo-dist"]
+	path = shootaroo-dist
+	url = https://github.com/h3nnn4n/shootaroo-dist.git
