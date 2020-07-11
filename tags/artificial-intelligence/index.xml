@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>artificial intelligence on h3nnn4n</title>
+    <link>https://h3nnn4n.github.io/tags/artificial-intelligence/</link>
+    <description>Recent content in artificial intelligence on h3nnn4n</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://h3nnn4n.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gabate</title>
+      <link>https://h3nnn4n.github.io/project/gabate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/project/gabate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garapa</title>
+      <link>https://h3nnn4n.github.io/project/garapa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/project/garapa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starcraft 2 AI</title>
+      <link>https://h3nnn4n.github.io/project/sc2ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/project/sc2ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Panda - A Tetris Playground for AIs</title>
+      <link>https://h3nnn4n.github.io/post/smart-panda/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/smart-panda/</guid>
+      <description>Smart Panda is a simple Tetris Playground intended for use with Artificial Intelligences. That is, the intended use of Smart Panda is as a Tetris engine to explore and apply some Artificial Intelligence concepts to Tetris. The core of Smart Panda is written in rust, compiled to wasm using wasm-pack and wasm-bindgen. What you see happening on the browser right now is controlled with JavaScript. That is, the heavy lifting is made in rust and javascript does some glue logic and calls the update events from Smart Panda.</description>
+    </item>
+    
+    <item>
+      <title>Starcraft 2 Stalker Micro</title>
+      <link>https://h3nnn4n.github.io/post/sc2-stalker-micro/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/sc2-stalker-micro/</guid>
+      <description>Starcraft 2 is currently the most competitive 1 vs 1 game, and from a Artificial Intelligence point of view it is a good (and hard) problem to tackle. It is very complex, having very delayed rewards, high dimensionality, volatility (baneling hit = rip), partial information and other things. Recently Blizzard shared an interface that makes possible for agents to play the game.
+DeepMind is probably the leading research force on Starcraft 2 right now on a professional level.</description>
+    </item>
+    
+  </channel>
+</rss>

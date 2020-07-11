@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>h3nnn4n</title>
+    <link>https://h3nnn4n.github.io/</link>
+    <description>Recent content on h3nnn4n</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://h3nnn4n.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gabate</title>
+      <link>https://h3nnn4n.github.io/project/gabate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/project/gabate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garapa</title>
+      <link>https://h3nnn4n.github.io/project/garapa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/project/garapa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strange Explorer</title>
+      <link>https://h3nnn4n.github.io/project/strange-explorer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/project/strange-explorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gameboy Docs</title>
+      <link>https://h3nnn4n.github.io/project/gameboy-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/project/gameboy-docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Engineering the Game Boy Tetris</title>
+      <link>https://h3nnn4n.github.io/project/tetris-re/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/project/tetris-re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starcraft 2 AI</title>
+      <link>https://h3nnn4n.github.io/project/sc2ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/project/sc2ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material Complementar: Recentes avanços na Inteligência Artificial em Jogos</title>
+      <link>https://h3nnn4n.github.io/ai-talk/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/ai-talk/</guid>
+      <description>Slides  Slides  Video  Google DeepMind&amp;rsquo;s Deep Q-learning playing Atari Breakout Google DeepMind&amp;rsquo;s Deep Q-Learning &amp;amp; Superhuman Atari Gameplays  Artigos  Playing Atari with Deep Reinforcement Learning Human-level control through deep reinforcement learning Mastering the game of Go with deep neural networks and tree search Mastering the game of Go without human knowledge  Código  Implementação open source pela DeepMind: DQN 3.0  Livros  Artificial Intelligence: A Modern Approach  Outros  The story of AlphaGo so far AlphaGo Zero: Learning from scratch OpenAI Five OpenAI Five Benchmark: Results The International 2018: Results AlphaStar: Mastering the Real-Time Strategy Game StarCraft II A Neural Network Playground  </description>
+    </item>
+    
+    <item>
+      <title>Smart Panda - A Tetris Playground for AIs</title>
+      <link>https://h3nnn4n.github.io/post/smart-panda/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/smart-panda/</guid>
+      <description>Smart Panda is a simple Tetris Playground intended for use with Artificial Intelligences. That is, the intended use of Smart Panda is as a Tetris engine to explore and apply some Artificial Intelligence concepts to Tetris. The core of Smart Panda is written in rust, compiled to wasm using wasm-pack and wasm-bindgen. What you see happening on the browser right now is controlled with JavaScript. That is, the heavy lifting is made in rust and javascript does some glue logic and calls the update events from Smart Panda.</description>
+    </item>
+    
+    <item>
+      <title>Art Gallery</title>
+      <link>https://h3nnn4n.github.io/art/</link>
+      <pubDate>Sun, 17 Feb 2019 10:50:17 -0300</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/art/</guid>
+      <description>Over the last 10 or so years (since before high school) I have gathered interest in creative coding and doing art with computers. Back then I didn&amp;rsquo;t even know what creative coding was. My first experiments were with Lissajous curves made in QuickBasic. Over the years I learned more about programming and started doing more complex things. Many of the works that I did are now lost because I didn&amp;rsquo;t care to share or properly store them.</description>
+    </item>
+    
+    <item>
+      <title>Fracture</title>
+      <link>https://h3nnn4n.github.io/post/fracture/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/fracture/</guid>
+      <description>Previously I worked on cracks, which was a reinterpretation of fractures, by inconvergent.net. My goal originally was to eventually reproduce his work, as an exercise. I stopped halfway there with something that I was satisfied with even though I will want to reproduce it somewhere in the future. From the partially finished reimplementation, I had the idea of using a picture to get the colors to fill in the spaces. The intention was to recreate a picture using a mosaic-like pattern generated by the cracks/fractures.</description>
+    </item>
+    
+    <item>
+      <title>Cracks</title>
+      <link>https://h3nnn4n.github.io/post/cracks/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/cracks/</guid>
+      <description>Recently after looking at the works of inconvergent I decided to try to implement some of the techniques that he uses. This one here was inspired mostly by fractures. While his algorithm for this is something that I want to explore in the future, the work here is somewhat different from what he did.
+My implementation works in a much simpler way. It generates a line equation with random coefficients and it picks a random point in this line.</description>
+    </item>
+    
+    <item>
+      <title>Dancing Room Zero</title>
+      <link>https://h3nnn4n.github.io/post/dancing-room-zero/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/dancing-room-zero/</guid>
+      <description>After writing a bit about the original Dancing with Friends and Enemies and my reimplementation I decided to try to implement something more close to the original. The first version used matter.js which added a different behavior style to the particles while being somewhat similar to the original.
+I was satisfied with the results and glad to be able to keep its original behavior while adding my own touch to it.</description>
+    </item>
+    
+    <item>
+      <title>Dancing Room</title>
+      <link>https://h3nnn4n.github.io/post/dancing-room/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/dancing-room/</guid>
+      <description>A few years ago I found a thread on the Wolfram forum about swarm intelligence and emergent behavior, two things that I enjoy a lot. The title of the thread was something like &amp;lsquo;&amp;lsquo;Dancing With Friends and Enemies&amp;rsquo;&amp;rsquo; and it does not exist anymore as far as I can tell. However, I was able to find a copy here. The idea is pretty simple and below you can see my reinterpretation of it.</description>
+    </item>
+    
+    <item>
+      <title>Flow field</title>
+      <link>https://h3nnn4n.github.io/post/flow/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/flow/</guid>
+      <description>One of the most popular coding exercises out there is a Flow Field. The main idea behind that is to generate a vector field randomly, which is very often based on Perlin Noise. Then a set of particles are placed on the vector field and they are free to move along it, where the vector field determines the force placed upon the particle. To make things more dynamic and alive it is possible to vary the vector field over time.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://h3nnn4n.github.io/about/</link>
+      <pubDate>Sun, 19 Aug 2018 10:50:17 -0300</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/about/</guid>
+      <description>Hey there. I am Renan S Silva, also known as h3nnn4n or bacon_unleased, depending on where you know me from. I recived my bachelor degree on Computer Science from the State University of Santa Catarina on august 2017. Currently I work full time as a Software Engineer on JobScore while also pursuing my masters degree on Applied Computing, where I work with the Ab Initio protein structure problem.
+I am a man of many hobbies.</description>
+    </item>
+    
+    <item>
+      <title>Starcraft 2 Stalker Micro</title>
+      <link>https://h3nnn4n.github.io/post/sc2-stalker-micro/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/sc2-stalker-micro/</guid>
+      <description>Starcraft 2 is currently the most competitive 1 vs 1 game, and from a Artificial Intelligence point of view it is a good (and hard) problem to tackle. It is very complex, having very delayed rewards, high dimensionality, volatility (baneling hit = rip), partial information and other things. Recently Blizzard shared an interface that makes possible for agents to play the game.
+DeepMind is probably the leading research force on Starcraft 2 right now on a professional level.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://h3nnn4n.github.io/post/hello-world/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/hello-world/</guid>
+      <description>Hey there. Recentlty I started working at JobScore while I was working at my masters degree on Applied Computing. This marked a new stage of my life. One that I am not familiar with, since I just graduated and never worked before. One of my main fears when I started working was stop evolving as a person and as an employee. With that in mind, I took a few commitments with the goal of creating healthy and productive habbits for my new life:</description>
+    </item>
+    
+  </channel>
+</rss>
