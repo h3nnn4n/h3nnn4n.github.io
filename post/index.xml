@@ -6,10 +6,19 @@
     <description>Recent content in Posts on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://h3nnn4n.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Debugging a Kernel Panic at Boot</title>
+      <link>https://h3nnn4n.github.io/post/debugging-kernel-panic-boot/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/post/debugging-kernel-panic-boot/</guid>
+      <description>Hey there. I have a small story to share, about how I got myself into a problem for no good reason and how I got out of it. Currently, I am working on a project which requires a somewhat peculiar setup. I am using a programming framework for a project that only runs on windows. While wine on Linux kinda works, it was a few issues and is too unreliable. As such, I am either required to work directly on an actual Windows machine or to run a virtual machine.</description>
+    </item>
     
     <item>
       <title>Smart Panda - A Tetris Playground for AIs</title>
