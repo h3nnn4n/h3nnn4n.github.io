@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>Creative, mathematical and procedural coding</title>
+      <link>https://h3nnn4n.github.io/creative-coding/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://h3nnn4n.github.io/creative-coding/</guid>
+      <description>Fractals  Rust powered and web based Mandelbrot set explorer. Supports 3 rendering modes and antialiasing. Mainly an excercise on using Rust/wasm to do something cool.  Browser version Source code    Strange Attractors  Rust powered and web based Clifford Attractor explorer. Has some basic color selection. Supports paremeter interpolation. Can also use Lyapunov Exponents to automatically generate random cool configurations. Mainly an excercise on using Rust/wasm to do something cool.</description>
+    </item>
+    
+    <item>
       <title>Debugging a Kernel Panic at Boot</title>
       <link>https://h3nnn4n.github.io/post/debugging-kernel-panic-boot/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
@@ -154,8 +163,8 @@
       <pubDate>Sun, 19 Aug 2018 10:50:17 -0300</pubDate>
       
       <guid>https://h3nnn4n.github.io/about/</guid>
-      <description>Hey there. I am Renan S Silva, also known as h3nnn4n or bacon_unleased, depending on where you know me from. I recived my bachelor degree on Computer Science from the State University of Santa Catarina on august 2017. Currently I work full time as a Software Engineer on JobScore while also pursuing my masters degree on Applied Computing, where I work with the Ab Initio protein structure problem.
-I am a man of many hobbies.</description>
+      <description>Hey there. I am Renan S Silva, also known as h3nnn4n or bacon_unleased / bacon_unleashed, depending on where you know me from. I recived my bachelor degree on Computer Science from the State University of Santa Catarina on august 2017. After that I started a master&amp;rsquo;s degree in applied computing Applied Computing working with the Ab Initio protein structure problem.
+Currently I work full time as a Software Engineer on JobScore, mainly on backend and some data intesive tasks.</description>
     </item>
     
     <item>
