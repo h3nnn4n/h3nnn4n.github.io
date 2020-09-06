@@ -88,6 +88,36 @@
 /******/ 					"__wbg_call_b1011dd6b074a84c": function(p0i32,p1i32,p2i32) {
 /******/ 						return installedModules["./pkg/mandelbrot_explorer.js"].exports["__wbg_call_b1011dd6b074a84c"](p0i32,p1i32,p2i32);
 /******/ 					},
+/******/ 					"__wbg_new_78b2a28f79ef6577": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/mandelbrot_explorer.js"].exports["__wbg_new_78b2a28f79ef6577"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_call_89b45155b3b4485b": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/mandelbrot_explorer.js"].exports["__wbg_call_89b45155b3b4485b"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbindgen_jsval_eq": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/mandelbrot_explorer.js"].exports["__wbindgen_jsval_eq"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_self_7d468a665f0b9fd4": function(p0i32) {
+/******/ 						return installedModules["./pkg/mandelbrot_explorer.js"].exports["__wbg_self_7d468a665f0b9fd4"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_crypto_fb04796ca787f72a": function(p0i32) {
+/******/ 						return installedModules["./pkg/mandelbrot_explorer.js"].exports["__wbg_crypto_fb04796ca787f72a"](p0i32);
+/******/ 					},
+/******/ 					"__wbindgen_is_undefined": function(p0i32) {
+/******/ 						return installedModules["./pkg/mandelbrot_explorer.js"].exports["__wbindgen_is_undefined"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_getRandomValues_6cfbc78e64667b14": function(p0i32) {
+/******/ 						return installedModules["./pkg/mandelbrot_explorer.js"].exports["__wbg_getRandomValues_6cfbc78e64667b14"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_require_28466e53549c4fc7": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/mandelbrot_explorer.js"].exports["__wbg_require_28466e53549c4fc7"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_getRandomValues_3b18d12e42acb2cf": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/mandelbrot_explorer.js"].exports["__wbg_getRandomValues_3b18d12e42acb2cf"](p0i32,p1i32,p2i32);
+/******/ 					},
+/******/ 					"__wbg_randomFillSync_9c9a28bbbbc171c7": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/mandelbrot_explorer.js"].exports["__wbg_randomFillSync_9c9a28bbbbc171c7"](p0i32,p1i32,p2i32);
+/******/ 					},
 /******/ 					"__wbindgen_object_clone_ref": function(p0i32) {
 /******/ 						return installedModules["./pkg/mandelbrot_explorer.js"].exports["__wbindgen_object_clone_ref"](p0i32);
 /******/ 					},
@@ -195,7 +225,7 @@
 /******/ 				promises.push(installedWasmModuleData);
 /******/ 			else {
 /******/ 				var importObject = wasmImportObjects[wasmModuleId]();
-/******/ 				var req = fetch(__webpack_require__.p + "" + {"./pkg/mandelbrot_explorer_bg.wasm":"b210dcce428f2753641e"}[wasmModuleId] + ".module.wasm");
+/******/ 				var req = fetch(__webpack_require__.p + "" + {"./pkg/mandelbrot_explorer_bg.wasm":"e9383ae1bddfe89121b9"}[wasmModuleId] + ".module.wasm");
 /******/ 				var promise;
 /******/ 				if(importObject instanceof Promise && typeof WebAssembly.compileStreaming === 'function') {
 /******/ 					promise = Promise.all([WebAssembly.compileStreaming(req), importObject]).then(function(items) {
