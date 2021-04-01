@@ -5,11 +5,7 @@
     <link>https://h3nnn4n.github.io/tags/reverse-engineering/</link>
     <description>Recent content in reverse engineering on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://h3nnn4n.github.io/tags/reverse-engineering/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://h3nnn4n.github.io/tags/reverse-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reverse Engineering the Game Boy Tetris</title>
       <link>https://h3nnn4n.github.io/project/tetris-re/</link>

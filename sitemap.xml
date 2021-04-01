@@ -1,221 +1,137 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://h3nnn4n.github.io/project/gabate/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/project/garapa/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/project/strange-explorer/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/project/gameboy-docs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/project/tetris-re/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/project/sc2ai/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://h3nnn4n.github.io/tags/c/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://h3nnn4n.github.io/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://h3nnn4n.github.io/post/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://h3nnn4n.github.io/tags/rubiks-cube/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://h3nnn4n.github.io/post/rubiks-cube-solver/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://h3nnn4n.github.io/tags/solver/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://h3nnn4n.github.io/tags/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://h3nnn4n.github.io/creative-coding/</loc>
     <lastmod>2020-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/debugging/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/post/debugging-kernel-panic-boot/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/kernel-panic/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/linux/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/post/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/tags/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/ai-talk/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/post/smart-panda/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/tetris/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/art/</loc>
     <lastmod>2019-02-17T10:50:17-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/creative/</loc>
     <lastmod>2018-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/post/fracture/</loc>
     <lastmod>2018-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/javascript/</loc>
     <lastmod>2018-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/visual/</loc>
     <lastmod>2018-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/post/cracks/</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/post/dancing-room-zero/</loc>
     <lastmod>2018-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/physics/</loc>
     <lastmod>2018-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/post/dancing-room/</loc>
     <lastmod>2018-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/post/flow/</loc>
     <lastmod>2018-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/about/</loc>
     <lastmod>2018-08-19T10:50:17-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/micro/</loc>
     <lastmod>2018-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/starcraft-2/</loc>
     <lastmod>2018-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/post/sc2-stalker-micro/</loc>
     <lastmod>2018-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/post/hello-world/</loc>
     <lastmod>2018-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/personal/</loc>
     <lastmod>2018-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://h3nnn4n.github.io/tags/c/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/docs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/emulation/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/emulator/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/fractal/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/game-boy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/procedural/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/project/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/python/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/reverse-engineering/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/rust/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://h3nnn4n.github.io/tags/typescript/</loc>
   </url>
-  
 </urlset>
