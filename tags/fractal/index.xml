@@ -5,7 +5,11 @@
     <link>https://h3nnn4n.github.io/tags/fractal/</link>
     <description>Recent content in fractal on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://h3nnn4n.github.io/tags/fractal/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://h3nnn4n.github.io/tags/fractal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Strange Explorer</title>
       <link>https://h3nnn4n.github.io/project/strange-explorer/</link>

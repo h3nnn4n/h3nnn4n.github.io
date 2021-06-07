@@ -6,15 +6,10 @@
     <description>Recent content in Posts on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://h3nnn4n.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rubiks Cube Solver</title>
-      <link>https://h3nnn4n.github.io/post/rubiks-cube-solver/</link>
-      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://h3nnn4n.github.io/post/rubiks-cube-solver/</guid>
-      <description>The Rubik&amp;rsquo;s cube, invented in 1974 by Ernő Rubik, is the most sold puzzle of all time. Me, being born on 1994, am 20 years younger than the puzzle. And as most children of my age, I got my first cube and had no clue how to solve it. For many years, the only way was to disassemble it and put it back together. That changed when I started studying computer science in 2012.</description>
-    </item>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://h3nnn4n.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Debugging a Kernel Panic at Boot</title>

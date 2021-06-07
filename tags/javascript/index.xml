@@ -6,7 +6,11 @@
     <description>Recent content in javascript on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://h3nnn4n.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://h3nnn4n.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Fracture</title>
       <link>https://h3nnn4n.github.io/post/fracture/</link>

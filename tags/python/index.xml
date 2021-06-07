@@ -5,7 +5,11 @@
     <link>https://h3nnn4n.github.io/tags/python/</link>
     <description>Recent content in python on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://h3nnn4n.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://h3nnn4n.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Starcraft 2 AI</title>
       <link>https://h3nnn4n.github.io/project/sc2ai/</link>

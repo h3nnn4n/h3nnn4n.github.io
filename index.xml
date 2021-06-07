@@ -6,7 +6,11 @@
     <description>Recent content on h3nnn4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://h3nnn4n.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://h3nnn4n.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Gabate</title>
       <link>https://h3nnn4n.github.io/project/gabate/</link>
@@ -62,12 +66,14 @@
     </item>
     
     <item>
-      <title>Rubiks Cube Solver</title>
-      <link>https://h3nnn4n.github.io/post/rubiks-cube-solver/</link>
-      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      <title>Games</title>
+      <link>https://h3nnn4n.github.io/games/</link>
+      <pubDate>Mon, 07 Jun 2021 14:23:55 -0300</pubDate>
       
-      <guid>https://h3nnn4n.github.io/post/rubiks-cube-solver/</guid>
-      <description>The Rubik&amp;rsquo;s cube, invented in 1974 by Ernő Rubik, is the most sold puzzle of all time. Me, being born on 1994, am 20 years younger than the puzzle. And as most children of my age, I got my first cube and had no clue how to solve it. For many years, the only way was to disassemble it and put it back together. That changed when I started studying computer science in 2012.</description>
+      <guid>https://h3nnn4n.github.io/games/</guid>
+      <description>Shootaroo Fast paced game with a heavy focus on hand-eye coordination and ambidexterity. The player must defend agaisnt a never ending onslaught of abstract enemies and try to get the highest score possible.
+Will be published to Steam by august. Check shootaroo.xyz for more.
+This is my first attempt at a comercial game. It was born out of a self challenge to publish a game. Dispite the game simplicity, getting it ready for publishing helped me to develop several skills and learn new things.</description>
     </item>
     
     <item>
@@ -168,8 +174,8 @@
       <pubDate>Sun, 19 Aug 2018 10:50:17 -0300</pubDate>
       
       <guid>https://h3nnn4n.github.io/about/</guid>
-      <description>Hey there. I am Renan S Silva, also known as h3nnn4n or bacon_unleased / bacon_unleashed, depending on where you know me from. I recived my bachelor degree on Computer Science from the State University of Santa Catarina on august 2017. After that I started a master&amp;rsquo;s degree in applied computing Applied Computing working with the Ab Initio protein structure problem.
-Currently I work full time as a Software Engineer on JobScore, mainly on backend and some data intesive tasks.</description>
+      <description>Hey there. I am Renan S Silva, also known as h3nnn4n or bacon_unleased / bacon_unleashed, depending on where you know me from. I recived my bachelor degree on Computer Science from the State University of Santa Catarina on august 2017. Imediately after that I started a master&amp;rsquo;s degree in Applied Computing working with the Ab Initio protein structure problem, which I concluded 2 years after.
+Currently I work full time as a Software Engineer on Tesorio, where I am part of a small and nimble team responsible by platform work and maintenance of several integrations with external systems, as well as developing new ones.</description>
     </item>
     
     <item>
