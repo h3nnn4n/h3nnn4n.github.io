@@ -1,3 +1,24 @@
 [submodule "Dancing-Rooms"]
 	path = Dancing-Rooms
 	url = https://github.com/h3nnn4n/Dancing-Rooms
+[submodule "cracks"]
+	path = cracks
+	url = https://github.com/h3nnn4n/cracks
+[submodule "dancing-friends-zero"]
+	path = dancing-friends-zero
+	url = https://github.com/h3nnn4n/dancing-friends-zero
+[submodule "flow-net"]
+	path = flow-net
+	url = https://github.com/h3nnn4n/flow-net
+[submodule "fracture"]
+	path = fracture
+	url = https://github.com/h3nnn4n/fracture
+[submodule "h3xus"]
+	path = h3xus
+	url = https://github.com/h3nnn4n/h3xus
+[submodule "h3xus_reloaded"]
+	path = h3xus_reloaded
+	url = https://github.com/h3nnn4n/h3xus_reloaded
+[submodule "smart-panda"]
+	path = smart-panda
+	url = https://github.com/h3nnn4n/smart-panda
